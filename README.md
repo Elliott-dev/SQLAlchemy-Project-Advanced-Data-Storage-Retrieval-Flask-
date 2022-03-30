@@ -32,7 +32,7 @@ I used Python and SQLAlchemy to do basic climate analysis and data exploration o
 
 * Plotted the results using the DataFrame `plot` method.
 
-  ![precipitation](Images/precipitation.png)
+  ![image](https://user-images.githubusercontent.com/94668201/160928763-5862a4d7-6ec7-4a16-8b7a-62c9cdb9eddc.png)
 
 * Use Pandas to print the summary statistics for the precipitation data.
 
@@ -56,7 +56,7 @@ I used Python and SQLAlchemy to do basic climate analysis and data exploration o
 
   * Plotted the results as a histogram with `bins=12`.
 
-    ![station-histogram](Images/station-histogram.png)
+    ![image](https://user-images.githubusercontent.com/94668201/160928840-3a55dd1f-6ab8-4940-9fcb-b017ccaedb6d.png)
 
 * Closed my your session.
 
@@ -141,7 +141,7 @@ Now that the initial analysis is completed, I designed a Flask API based on the 
 
   * Used the peak-to-peak (TMAX-TMIN) value as the y error bar (YERR).
 
-    ![temperature](Images/temperature.png)
+   ![image](https://user-images.githubusercontent.com/94668201/160928910-6bd7c0c3-6cc8-482d-8544-d8633f579a2e.png)
 
 ### Daily Rainfall Average
 
@@ -170,7 +170,7 @@ Now that the initial analysis is completed, I designed a Flask API based on the 
 
 * Closed out my session.
 
-  ![daily-normals](Images/daily-normals.png)
+  ![image](https://user-images.githubusercontent.com/94668201/160929000-6ef31c54-8ce1-4f52-99c8-fc488fa50bfe.png)
 
 - - -
 

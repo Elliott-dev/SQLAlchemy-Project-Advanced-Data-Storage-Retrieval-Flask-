@@ -58,7 +58,7 @@ I used Python and SQLAlchemy to do basic climate analysis and data exploration o
 
     ![image](https://user-images.githubusercontent.com/94668201/160928840-3a55dd1f-6ab8-4940-9fcb-b017ccaedb6d.png)
 
-* Closed my your session.
+* Closed my  session.
 
 - - -
 
@@ -66,7 +66,7 @@ I used Python and SQLAlchemy to do basic climate analysis and data exploration o
 
 Now that the initial analysis is completed, I designed a Flask API based on the queries that I have just developed.
 
-* Used Flask to create your routes.
+* Used Flask to create my routes.
 
 ### Routes
 
@@ -80,7 +80,7 @@ Now that the initial analysis is completed, I designed a Flask API based on the 
 
   * Converted the query results to a dictionary using `date` as the key and `prcp` as the value.
 
-  * Returned the JSON representation of your dictionary.
+  * Returned the JSON representation of my dictionary.
 
 * `/api/v1.0/stations`
 
@@ -133,7 +133,7 @@ Now that the initial analysis is completed, I designed a Flask API based on the 
 
 * Used the `calc_temps` function to calculate the min, avg, and max temperatures for my trip using the matching dates from a previous year (i.e., used "2017-08-01").
 
-* Plotted the min, avg, and max temperature from your previous query as a bar chart.
+* Plotted the min, avg, and max temperature from my previous query as a bar chart.
 
   * Used "Trip Avg Temp" as the title.
 
